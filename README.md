@@ -78,7 +78,7 @@ int main() {
 
 
 ## Output:
-![alt text](<Screenshot 2025-05-15 101507.png>)
+![alt text](image.png)
 
 
 
